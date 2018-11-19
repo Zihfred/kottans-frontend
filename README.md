@@ -11,9 +11,9 @@ _____________________________________
 ![Screenshot](task_linux_cli/2.PNG)
 
 What was new to you:
-*Information about move files and directories
-*Nano
-*BASH 
+* Information about move files and directories
+* Nano
+* BASH 
 
 _____________________________________
 
