@@ -32,5 +32,5 @@ _____________________________________
 It's good course to refresh your base knowledge
 
 What was new:
-* <del>, <ins>
-* <label> 
+* < del >, < ins >
+* < label > 
