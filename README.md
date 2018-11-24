@@ -34,3 +34,20 @@ It's good course to refresh your base knowledge
 What was new:
 * < del >, < ins >
 * < label > 
+
+______________________________________
+
+## JS Basics
+
+![Screenshot](task_js_basics/1.PNG)
+![Screenshot](task_js_basics/2.PNG)
+![Screenshot](task_js_basics/3.PNG)
+
+
+Very interesting part of tasks. Hope, that second part will be more interesting!
+
+
+______________________________________
+
+
+
