@@ -55,4 +55,8 @@ ______________________________________
 ![Screenshot](task_js_oop/1.PNG)
 ![Screenshot](task_js_oop/2.PNG)
 
+## A Tiny JS World
 
+[Code](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/zihfred/index.js)
+
+Reviewed and approved by @OleksiyRudenko
