@@ -50,4 +50,9 @@ Very interesting part of tasks. Hope, that second part will be more interesting!
 ______________________________________
 
 
+## Object Oriented JS
+
+![Screenshot](task_js_oop/1.PNG)
+![Screenshot](task_js_oop/2.PNG)
+
 
