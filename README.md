@@ -1,3 +1,5 @@
+[![Kottans-Student-Conflict-resolution](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20conflict%20resolution-brightgreen.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+
 # kottans-frontend
 
 
