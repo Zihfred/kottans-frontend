@@ -16,6 +16,12 @@ What was new:
 * Information about move files and directories
 * Nano
 * BASH 
+_____________________________________
+
+## Responsive Web Design
+
+![Screenshot](task_responsive_web_design/1.PNG)
+![Screenshot](task_responsive_web_design/2.PNG)
 
 _____________________________________
 
@@ -56,9 +62,12 @@ ______________________________________
 
 ![Screenshot](task_js_oop/1.PNG)
 ![Screenshot](task_js_oop/2.PNG)
+______________________________________
 
 ## A Tiny JS World
 
 [Code](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/zihfred/index.js)
 
 Reviewed and approved by @OleksiyRudenko
+
+______________________________________
