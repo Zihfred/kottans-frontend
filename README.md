@@ -9,9 +9,8 @@ _____________________________________
 
 ## Linux CLI, and HTTP
 
-![Screenshot](task_linux_cli/1.PNG)
-![Screenshot](task_linux_cli/2.PNG)
-
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_linux_cli/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_linux_cli/2.PNG)
 
 
 
@@ -22,23 +21,26 @@ What was new:
 _____________________________________
 
 ## Responsive Web Design
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_responsive_web_design/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_responsive_web_design/2.PNG)
 
-![Screenshot](task_responsive_web_design/1.PNG)
-![Screenshot](task_responsive_web_design/2.PNG)
 
 _____________________________________
 
 ## Git Collaboration
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_git_collaboration/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_git_collaboration/2.PNG)
 
-![Screenshot](task_git_collaboration/1.PNG)
-![Screenshot](task_git_collaboration/2.PNG)
+
+
+
 
 _____________________________________
 
 ## Intro to HTML and CSS
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_html_css_intro/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_html_css_intro/2.PNG)
 
-![Screenshot](task_html_css_intro/1.PNG)
-![Screenshot](task_html_css_intro/2.PNG)
 
 It's good course to refresh your base knowledge
 
@@ -50,9 +52,10 @@ ______________________________________
 
 ## JS Basics
 
-![Screenshot](task_js_basics/1.PNG)
-![Screenshot](task_js_basics/2.PNG)
-![Screenshot](task_js_basics/3.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/2.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/3.PNG)
+
 
 
 Very interesting part of tasks. Hope, that second part will be more interesting!
@@ -62,9 +65,9 @@ ______________________________________
 
 
 ## Object Oriented JS
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_oop/1.PNG)
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_oop/2.PNG)
 
-![Screenshot](task_js_oop/1.PNG)
-![Screenshot](task_js_oop/2.PNG)
 ______________________________________
 
 ## A Tiny JS World
