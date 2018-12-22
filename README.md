@@ -12,6 +12,9 @@ _____________________________________
 ![Screenshot](task_linux_cli/1.PNG)
 ![Screenshot](task_linux_cli/2.PNG)
 
+
+
+
 What was new:
 * Information about move files and directories
 * Nano
@@ -67,7 +70,28 @@ ______________________________________
 ## A Tiny JS World
 
 [Code](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/zihfred/index.js)
+[Demo]( https://zihfred.github.io/a-tiny-JS-world/)
+
 
 Reviewed and approved by @OleksiyRudenko
+
+______________________________________
+
+
+## Memory game
+
+[Code](https://github.com/Zihfred/memory-game)
+[Demo](https://zihfred.github.io/memory-game/)
+
+Reviewed and approved by @AMashoshyna
+
+______________________________________
+
+## Friends-App
+
+[Code](https://github.com/Zihfred/Friends-App)
+[Demo](https://zihfred.github.io/Friends-App/)
+
+Reviewed and approved by @zonzujiro
 
 ______________________________________
