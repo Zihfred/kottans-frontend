@@ -4,7 +4,6 @@
 
 
 This information was very helpful. Both for beginners and experienced users! GitHab is very convenient, it saves time, now you do not need to send archives and other nonsense
-
 _____________________________________
 
 ## Linux CLI, and HTTP
@@ -23,18 +22,11 @@ _____________________________________
 ## Responsive Web Design
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_responsive_web_design/1.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_responsive_web_design/2.PNG)
-
-
 _____________________________________
 
 ## Git Collaboration
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_git_collaboration/1.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_git_collaboration/2.PNG)
-
-
-
-
-
 _____________________________________
 
 ## Intro to HTML and CSS
@@ -46,8 +38,7 @@ It's good course to refresh your base knowledge
 
 What was new:
 * < del >, < ins >
-* < label > 
-
+* < label >
 ______________________________________
 
 ## JS Basics
@@ -56,18 +47,12 @@ ______________________________________
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/2.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/3.PNG)
 
-
-
 Very interesting part of tasks. Hope, that second part will be more interesting!
-
-
 ______________________________________
-
 
 ## Object Oriented JS
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_oop/1.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_oop/2.PNG)
-
 ______________________________________
 
 ## A Tiny JS World
@@ -75,11 +60,16 @@ ______________________________________
 [Code](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/zihfred/index.js)
 [Demo]( https://zihfred.github.io/a-tiny-JS-world/)
 
-
 Reviewed and approved by @OleksiyRudenko
-
 ______________________________________
 
+## FROGGER
+
+[Code](https://github.com/Zihfred/JS-OOP)
+[Demo](https://zihfred.github.io/JS-OOP/)
+
+Reviewed and approved by @zonzujiro
+______________________________________
 
 ## Memory game
 
@@ -87,7 +77,6 @@ ______________________________________
 [Demo](https://zihfred.github.io/memory-game/)
 
 Reviewed and approved by @AMashoshyna
-
 ______________________________________
 
 ## Friends-App
@@ -96,5 +85,8 @@ ______________________________________
 [Demo](https://zihfred.github.io/Friends-App/)
 
 Reviewed and approved by @zonzujiro
-
 ______________________________________
+
+
+
+
