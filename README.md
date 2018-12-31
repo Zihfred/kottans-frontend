@@ -39,7 +39,7 @@ ______________________________________
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/1.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/2.PNG)
 [Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/3.PNG)
-
+[Screen](https://github.com/Zihfred/kottans-frontend/blob/master/task_js_basics/4.PNG)
 Very interesting part of tasks. Hope, that second part will be more interesting!
 ______________________________________
 ## Object Oriented JS
